@@ -1,2 +1,0 @@
-# textutils
-Django as Backend
